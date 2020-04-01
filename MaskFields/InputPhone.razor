@@ -1,0 +1,10 @@
+﻿
+@inherits InputPhoneBase
+
+
+<input type="text" placeholder="(99) 99999-9999" class="@CssClass" 
+       name="@Name" 
+       @bind="CurrentValueAsString" 
+       maxlength="15"
+       id="@Id" @oninput="HandleInput"/>
+

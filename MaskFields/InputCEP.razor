@@ -1,0 +1,8 @@
+﻿
+@inherits InputCEPBase
+
+<input type="text" placeholder="99999-999" class="@CssClass"
+       name="@Name"
+       @bind="CurrentValueAsString"
+       maxlength="9"
+       id="@Id" @oninput="HandleInput" />

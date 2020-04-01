@@ -1,0 +1,10 @@
+﻿
+@inherits InputCPFBase
+
+
+<input type="text" placeholder="000.000.000-00" class="@CssClass"
+       name="@Name" 
+       @bind="CurrentValueAsString" 
+       maxlength="14"
+       id="@Id" @oninput="HandleInput"/>
+
