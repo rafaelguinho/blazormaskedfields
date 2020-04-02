@@ -1,0 +1,10 @@
+﻿@inherits InputChassiBase
+
+<input type="text" placeholder="9XX.XX99X9.9X.999999" class="@CssClass"
+       name="@Name"
+       @bind="CurrentValueAsString"
+       maxlength="20"
+       id="@Id" @oninput="HandleInput"
+       @onblur="OnBlur" />
+
+

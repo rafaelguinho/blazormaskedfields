@@ -23,3 +23,5 @@ C:\Users\rafae\OneDrive\Documentos\coding\dotnet\MaskFields\MaskFields\obj\Debug
 C:\Users\rafae\OneDrive\Documentos\coding\dotnet\MaskFields\MaskFields\obj\Debug\netstandard2.1\BlazorMaskedFields.dll
 C:\Users\rafae\OneDrive\Documentos\coding\dotnet\MaskFields\MaskFields\obj\Debug\netstandard2.1\BlazorMaskedFields.pdb
 C:\Users\rafae\OneDrive\Documentos\coding\dotnet\MaskFields\MaskFields\obj\Debug\netstandard2.1\BlazorMaskedFields.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\MaskFields\MaskFields\obj\Debug\netstandard2.1\RazorDeclaration\InputChassi.razor.g.cs
+C:\Users\rafae\OneDrive\Documentos\coding\dotnet\MaskFields\MaskFields\obj\Debug\netstandard2.1\Razor\InputChassi.razor.g.cs

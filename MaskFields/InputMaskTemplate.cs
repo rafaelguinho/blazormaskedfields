@@ -29,7 +29,7 @@ namespace BlazorMaskedFields
             EditContext?.NotifyFieldChanged(_fieldIdentifier);
         }
 
-        protected abstract string ApplyMask(string value);
+        public abstract string ApplyMask(string value);
 
         protected override bool TryParseValueFromString(string value, out string result, out string validationErrorMessage)
         {

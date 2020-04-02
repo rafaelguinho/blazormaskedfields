@@ -5,7 +5,7 @@ namespace BlazorMaskedFields
 {
     public class InputCPFBase : InputMaskTemplate
     {
-        protected override string ApplyMask(string value)
+        public override string ApplyMask(string value)
         {
             value = Regex.Replace(value, @"\D", "");
             value = Regex.Replace(value, @"^(\d{3})(\d)",

@@ -765,7 +765,7 @@
     "C:\\Users\\rafae\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "restore": {
       "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\MaskFields\\MaskFields\\BlazorMaskedFields.csproj",
       "projectName": "BlazorMaskedFields",
