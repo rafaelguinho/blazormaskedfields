@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aRDXXnUOKUMnl9wuZUitoaWvhmokHzsxaoibq1pbzudKFOUcdaF0/Vp8D0uPo8k4s7IfwbuI5PsUydRuM9N4GA==",
+  "dgSpecHash": "N2aKpt5NG7/jRIjAGQoYKLhzfpJ48iCAzvhhqabOeTyATYRD6Y+r5hDb4qoZ8mzJjMWaB/qw81BZpc2QnWJ2Ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\MaskFields\\MaskFields\\BlazorMaskedFields.csproj",
   "expectedPackageFiles": [
@@ -17,8 +17,6 @@
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.options\\3.1.2\\microsoft.extensions.options.3.1.2.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.2\\microsoft.extensions.primitives.3.1.2.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\microsoft.jsinterop\\3.1.2\\microsoft.jsinterop.3.1.2.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
