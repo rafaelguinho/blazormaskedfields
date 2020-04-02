@@ -9,6 +9,8 @@ namespace BlazorMaskedFields
         [Parameter] public string Id { get; set; }
         [Parameter] public string Name { get; set; }
 
+        [Parameter] public EventCallback OnBlur { get; set; }
+
 
         private FieldIdentifier _fieldIdentifier;
 
