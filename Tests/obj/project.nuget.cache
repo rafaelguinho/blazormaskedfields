@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9FuWo+FOx9YaE8m5DhRRKGLAKNvzLer3hEJK3S9ws+KQCkSx8XkdUoknrkna8MsyQVvIQh7n9Ey3IxdXQFulkQ==",
+  "dgSpecHash": "oocDTH4wol+GIlOah3NIJXitrMENwoVTnJJFuQTfxzUm3Df6Ix1vSqgFAq79Vk96NSzr3EW89zbrlB/jA1gl6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\MaskFields\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
@@ -103,7 +103,7 @@
     "C:\\Users\\rafae\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\rafae\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\rafae\\.nuget\\packages\\blazormaskedfields\\1.0.5\\blazormaskedfields.1.0.5.nupkg.sha512"
+    "C:\\Users\\rafae\\.nuget\\packages\\blazormaskedfields\\1.0.6\\blazormaskedfields.1.0.6.nupkg.sha512"
   ],
   "logs": []
 }

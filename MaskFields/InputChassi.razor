@@ -1,6 +1,7 @@
 ﻿@inherits InputChassiBase
 
-<input type="text" placeholder="9XX.XX99X9.9X.999999" class="@CssClass"
+<input type="text" class="@CssClass"
+       @attributes="AdditionalAttributes"
        name="@Name"
        @bind="CurrentValueAsString"
        maxlength="20"

@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETStandard,Version=v2.1": {
-      "BlazorMaskedFields/1.0.5": {
+      "BlazorMaskedFields/1.0.6": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "3.1.2",
           "Microsoft.AspNetCore.Components.Web": "3.1.2",
@@ -902,7 +902,7 @@
       }
     },
     ".NETStandard,Version=v2.1/": {
-      "BlazorMaskedFields/1.0.5": {
+      "BlazorMaskedFields/1.0.6": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "3.1.2",
           "Microsoft.AspNetCore.Components.Web": "3.1.2",
@@ -1252,7 +1252,7 @@
     }
   },
   "libraries": {
-    "BlazorMaskedFields/1.0.5": {
+    "BlazorMaskedFields/1.0.6": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

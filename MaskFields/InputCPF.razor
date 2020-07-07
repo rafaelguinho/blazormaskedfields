@@ -2,7 +2,8 @@
 @inherits InputCPFBase
 
 
-<input type="text" placeholder="000.000.000-00" class="@CssClass"
+<input type="text"
+       @attributes="AdditionalAttributes" class="@CssClass"
        name="@Name" 
        @bind="CurrentValueAsString" 
        maxlength="14"

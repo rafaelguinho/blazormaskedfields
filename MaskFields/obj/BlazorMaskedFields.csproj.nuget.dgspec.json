@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\MaskFields\\MaskFields\\BlazorMaskedFields.csproj": {
-      "version": "1.0.5",
+      "version": "1.0.6",
       "restore": {
         "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\MaskFields\\MaskFields\\BlazorMaskedFields.csproj",
         "projectName": "BlazorMaskedFields",
@@ -22,7 +22,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\BlazorAccordion\\BlazorAccordion\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.segfy.com/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
@@ -62,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

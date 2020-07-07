@@ -1766,7 +1766,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "BlazorMaskedFields/1.0.5": {
+      "BlazorMaskedFields/1.0.6": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
@@ -6045,7 +6045,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "BlazorMaskedFields/1.0.5": {
+    "BlazorMaskedFields/1.0.6": {
       "type": "project",
       "path": "../MaskFields/BlazorMaskedFields.csproj",
       "msbuildProject": "../MaskFields/BlazorMaskedFields.csproj"
@@ -6053,7 +6053,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BlazorMaskedFields >= 1.0.5",
+      "BlazorMaskedFields >= 1.0.6",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -6081,7 +6081,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\rafae\\OneDrive\\Documentos\\coding\\dotnet\\BlazorAccordion\\BlazorAccordion\\bin\\Debug": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.segfy.com/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -6133,7 +6135,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Tests/1.0.0": {
         "dependencies": {
-          "BlazorMaskedFields": "1.0.5",
+          "BlazorMaskedFields": "1.0.6",
           "MSTest.TestAdapter": "2.1.0",
           "MSTest.TestFramework": "2.1.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
@@ -1186,7 +1186,7 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "BlazorMaskedFields/1.0.5": {
+      "BlazorMaskedFields/1.0.6": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "3.1.2",
           "Microsoft.AspNetCore.Components.Web": "3.1.2"
@@ -1896,7 +1896,7 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "BlazorMaskedFields/1.0.5": {
+    "BlazorMaskedFields/1.0.6": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
